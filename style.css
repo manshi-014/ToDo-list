@@ -1,0 +1,59 @@
+  
+h1{
+    color: rgb(1, 80, 1);
+    margin-left: 500px;
+}
+
+input[type = "text"]{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-left: 360px;
+}
+.btn{
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 12px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+.del{
+    background-color: #4CAF50;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+.p-style{
+    text-align: center;
+    font-size: 20px;
+    color: #053606;
+    cursor: pointer;
+}
+.del-btn{
+    background-color: #4CAF50;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 700px;
+}
